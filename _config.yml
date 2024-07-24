@@ -1,3 +1,5 @@
 title: Nabila Ayu Heryanto Putri
-show_download: True
+logo: DSC04467.jpg
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
