@@ -1,4 +1,4 @@
-# Data Scientist
+# Junior Data Scientist
 
 ### Education
 English Literature, BA
