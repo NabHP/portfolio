@@ -1,17 +1,21 @@
 # Junior Data Scientist
 
-### Education
+#### Technical Skills
+
+## Education
 English Literature, BA
 
-### Work Experiences
-#### UX Quality Assurance Intern @ Gameloft Indonesia (September 2022 - May 2023)
+
+## Work Experiences
+**UX Quality Assurance Intern @ Gameloft Indonesia (September 2022 - May 2023)
 - Participated in the testing process to ensure the quality of mobile games using various software testing.
 - Identified and reported bugs in a bug-tracking database.
 - Communicated with other team members and developers to provide feedback on the games from both the testers' and users' perspectives.
 - Able to stay focused and endure the repetitiveness of testing.
 
-### Projects
-#### Model Machine Learning to Predict Used Car Price (June 21 – July 19, 2024)
+
+## Projects
+**Model Machine Learning to Predict Used Car Price (June 21 – July 19, 2024)
 Machine learning and Cloud computing
 - Conducted research and exploratory data analysis to understand the dataset and strengthen the domain knowledge.
 - Conducted data cleaning and preparation to enhance model performance.
